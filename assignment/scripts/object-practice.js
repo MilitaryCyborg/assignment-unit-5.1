@@ -64,3 +64,8 @@ console.log( 'I bought a new pair of shoes and now have: ', me.shoeCount );
   - Cool huh? It works, even though it wasn't there before
   - Console.log your object
 */
+
+//add favoriteColor
+me.favoriteColor = 'Blue';
+  console.log('Added favorite color: ', me.favoriteColor);
+//end favoriteColor
